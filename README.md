@@ -4,7 +4,7 @@
 
 Submitted by: **Mariam Conde**
 
-Time spent: **11** hours spent in total
+Time spent: **7** hours spent in total
 
 Link to project: (https://muddy-thankful-record.glitch.me)
 
