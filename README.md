@@ -43,14 +43,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 Winning the game:
 ![](https://i.imgur.com/EVIEptP.gif)
 
-
 Giving the player 3 strikes:
 ![](https://i.imgur.com/5nd9w4o.gif)
 
-
 Using a random secret pattern each game (2 different games below):
 ![](https://i.imgur.com/6fA0yz8.gif)
-
 
 Losing the game:
 ![](https://i.imgur.com/h9EI51C.gif)
